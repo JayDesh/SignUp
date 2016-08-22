@@ -1,6 +1,6 @@
 
 .container{
-    background: hsla(160, 19%, 48%, 0.42);
+    background: hsla(160, 14%, 89%, 0.42);
 }
 
 h1{
@@ -9,11 +9,11 @@ h1{
 
 h1,h2{
     padding: 2%;
-    background: rgba(63, 124, 121, 0.71); /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(#007eff, #18e328); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#007eff, #18e328); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#007eff, #18e328); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#007eff, #18e328); /* Standard syntax */
+    background: rgba(205, 230, 229, 0.71); /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#b7d2ec, #c3ecc6); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#b7d2ec, #c3ecc6); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#b7d2ec, #c3ecc6); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#b7d2ec, #c3ecc6); /* Standard syntax */
     text-align: center;
 }
 
@@ -71,4 +71,3 @@ form div{
         display: inline-block;
     }
 }
-
