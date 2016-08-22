@@ -49,6 +49,8 @@ input {
     margin: 50px;
     position: relative;
     left: 35%;
+    font-size: 120%;
+    border-radius: 8px;
 }
 
 form{
